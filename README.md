@@ -3,7 +3,7 @@
 🎮 Gamer first, dev by purpose — coding to bring my ideas to life.
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXliNmplbWxoNXB6anRtbWN4dHkzbHo1eXFqbWE1bzFvd3c5Y2c2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6h0nAqfqZGygSjr6kp/giphy.gif" height="200" width="100%"/>
+  <img src="https://github.com/1NSiGHT-dev/1NSiGHT-dev/blob/main/ezgif.com-optimize.gif?raw=true" width="100%" />
 </p>
 
 ---
