@@ -1,7 +1,7 @@
 # Hi, I'm Kent 👋
 
 <img src="[https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2o3aWh4andiZWFqYWp6NGRhejViNXpuaXE5amM4czdwN3U2dTgyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1ylOHgLDKw7eD8WgoB/giphy.gif)"
-width="10%"/>
+width="60%"/>
 
 🇵🇭 born → 🇨🇦 based  
 🎮 Gamer first, dev by purpose — coding to bring my ideas to life.
