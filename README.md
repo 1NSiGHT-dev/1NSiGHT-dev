@@ -1,4 +1,6 @@
-# Hi, I'm Kent 👋![Gamer Dev](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+# Hi, I'm Kent 👋
+
+![Gamer Dev](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2o3aWh4andiZWFqYWp6NGRhejViNXpuaXE5amM4czdwN3U2dTgyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1ylOHgLDKw7eD8WgoB/giphy.gif)
 
 🇵🇭 born → 🇨🇦 based  
 🎮 Gamer first, dev by purpose — coding to bring my ideas to life.
@@ -26,12 +28,4 @@ Supporting clients with HL7 integrations, feeding workflows, and label solutions
 - Build real-world apps based on my game-inspired ideas  
 - Learn more full-stack skills and dev best practices  
 - Start my own software solutions company in the future
-
----
-
-### 📈 Stats & Activity
-
-![Visitor Count](https://komarev.com/ghpvc/?username=1NSiGHT-dev&style=flat&color=blue)
-
----
 
