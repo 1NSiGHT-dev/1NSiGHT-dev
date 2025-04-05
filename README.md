@@ -11,7 +11,7 @@
 ### 🛠️ Tech Stack
 
 <p>
-  <a href="https://www.php.net/docs.php" target="_blank">
+  <a href="https://www.php.net/docs.php">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
   </a>
   <a href="https://laravel.com/docs" target="_blank">
