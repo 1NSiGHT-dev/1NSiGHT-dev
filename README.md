@@ -3,7 +3,7 @@
 🎮 Gamer first, dev by purpose — coding to bring my ideas to life.
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2o3aWh4andiZWFqYWp6NGRhejViNXpuaXE5amM4czdwN3U2dTgyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1ylOHgLDKw7eD8WgoB/giphy.gif" width="100" span="100" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXliNmplbWxoNXB6anRtbWN4dHkzbHo1eXFqbWE1bzFvd3c5Y2c2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6h0nAqfqZGygSjr6kp/giphy.gif" width="100" span="100" />
 </p>
 
 ---
