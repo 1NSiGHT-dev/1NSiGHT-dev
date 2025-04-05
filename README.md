@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Kent 👋![Gamer Dev](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
-<!--
-**1NSiGHT-dev/1NSiGHT-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇵🇭 born → 🇨🇦 based  
+🎮 Gamer first, dev by purpose — coding to bring my ideas to life.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-E74430?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 💼 Currently
+Support Specialist @ **Timeless Medical Systems**  
+Supporting clients with HL7 integrations, feeding workflows, and label solutions.
+
+---
+
+### 🚀 Goals
+- Build real-world apps based on my game-inspired ideas  
+- Learn more full-stack skills and dev best practices  
+- Start my own software solutions company in the future
+
+---
+
+### 📈 Stats & Activity
+
+![Visitor Count](https://komarev.com/ghpvc/?username=1NSiGHT-dev&style=flat&color=blue)
+
+---
+
